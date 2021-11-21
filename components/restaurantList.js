@@ -101,7 +101,7 @@ if(searchQuery.length > 0){
   
     <Row xs='3'>
     {renderSearchBar()}
-    {renderDishes(restaurantID?restaurantID:restId)}
+    {renderDishes(restaurantID)}
     </Row>
  
  
