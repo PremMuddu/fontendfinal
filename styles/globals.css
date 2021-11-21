@@ -1,0 +1,32 @@
+html,
+body {
+ background-image:url(../styles/food.jpg); 
+ 
+ /*background: rgb(180, 270, 300);*/
+ color: black;;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: solid black;
+  text-decoration: none;
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+* {
+  box-sizing: border-box;
+
+}
+
+.card {
+  background-color: #aee9eb;
+  border: 0.1rem solid grey;
+
+}
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+}
