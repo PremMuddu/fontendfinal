@@ -83,7 +83,7 @@ function Login(props) {
                   <FormGroup>
                     <span>
                       <a href="/register">
-                        <small>OrSignup</small>
+                        <small>Signup</small>
                       </a>
                     </span>
                     <Button
