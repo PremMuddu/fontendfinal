@@ -24,7 +24,7 @@ function Home() {
              </h1>
           <div className="search">
           <br></br>
-          <br></br>
+      
              
               <br></br>
                 <InputGroup >
