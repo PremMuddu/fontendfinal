@@ -81,7 +81,7 @@ if(searchQuery.length > 0){
   const renderSearchBar = () => {
     return (
       <InputGroup >
-        <InputGroupAddon addonType="append"> Search </InputGroupAddon>
+        <InputGroupAddon addonType="append"> Flavors </InputGroupAddon>
         <Input
           onChange={(e) =>
           setQuery(e.target.value.toLocaleLowerCase())
